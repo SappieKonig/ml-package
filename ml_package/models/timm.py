@@ -1,7 +1,5 @@
 """Timm model for 2D image classification."""
 
-from typing import Literal, Callable
-
 import torch
 import torch.nn as nn
 import timm
